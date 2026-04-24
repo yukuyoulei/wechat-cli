@@ -6,7 +6,7 @@
 
 [![npm version](https://img.shields.io/npm/v/@canghe_ai/wechat-cli.svg)](https://www.npmjs.com/package/@canghe_ai/wechat-cli)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey.svg)](https://github.com/freestylefly/wechat-cli)
+[![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey.svg)](https://github.com/yukuyoulei/wechat-cli)
 
 Chat history · Contacts · Sessions · Favorites · Statistics · Export
 
@@ -56,7 +56,7 @@ Requires Python >= 3.10.
 ### From Source
 
 ```bash
-git clone https://github.com/freestylefly/wechat-cli.git
+git clone https://github.com/yukuyoulei/wechat-cli.git
 cd wechat-cli
 pip install -e .
 ```
@@ -379,4 +379,4 @@ This project is built on top of [wechat-decrypt](https://github.com/ylytdeng/wec
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=freestylefly/wechat-cli&type=Date)](https://star-history.com/#freestylefly/wechat-cli&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yukuyoulei/wechat-cli&type=Date)](https://star-history.com/#yukuyoulei/wechat-cli&Date)
